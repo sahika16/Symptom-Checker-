@@ -1,0 +1,10 @@
+Symptom checker 
+
+PS C:\sanikaprojects\Symptom Checker> cd "C:\sanikaprojects\Symptom Checker\frontend"
+
+PS C:\sanikaprojects\Symptom Checker\frontend> .\index.html
+
+
+- different powershell 
+cd "C:\sanikaprojects\Symptom Checker\backend"
+python app.py

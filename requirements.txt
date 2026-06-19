@@ -1,0 +1,10 @@
+flask
+flask-cors
+pandas
+scikit-learn
+deep-translator
+langdetect
+whisper
+openai-whisper
+werkzeug
+fuzzywuzzy 
