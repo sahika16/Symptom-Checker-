@@ -72,6 +72,3 @@ GET /metrics - Get model accuracy and statistics
 
 How It Works
 User enters symptoms in text or voice. Input is validated and translated to English if needed. System checks keyword matching first for quick detection. If no match found, Logistic Regression model predicts the disease. Remedies and precautions are fetched from the dataset. Response is translated to the user's selected language. Text-to-speech output is generated.
-
-Accuracy
-The model achieves 75-85% accuracy on test data. Keyword matching provides 85-90% accuracy for common diseases, while the ML model serves as a fallback with 70-80% accuracy.
